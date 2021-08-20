@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 626,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 783551614,
+            "classId": 6178697,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "brailleblock",
+            "points": {
+                "exterior": [
+                    [
+                        801,
+                        1
+                    ],
+                    [
+                        805,
+                        621
+                    ],
+                    [
+                        426,
+                        624
+                    ],
+                    [
+                        425,
+                        496
+                    ],
+                    [
+                        2,
+                        494
+                    ],
+                    [
+                        2,
+                        126
+                    ],
+                    [
+                        429,
+                        123
+                    ],
+                    [
+                        430,
+                        2
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

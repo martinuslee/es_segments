@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 333,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 783551323,
+            "classId": 6178696,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "crosswalk",
+            "points": {
+                "exterior": [
+                    [
+                        257,
+                        55
+                    ],
+                    [
+                        328,
+                        272
+                    ],
+                    [
+                        499,
+                        271
+                    ],
+                    [
+                        499,
+                        68
+                    ],
+                    [
+                        461,
+                        60
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 783551324,
+            "classId": 6178696,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "crosswalk",
+            "points": {
+                "exterior": [
+                    [
+                        233,
+                        55
+                    ],
+                    [
+                        183,
+                        197
+                    ],
+                    [
+                        0,
+                        196
+                    ],
+                    [
+                        0,
+                        59
+                    ],
+                    [
+                        23,
+                        53
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

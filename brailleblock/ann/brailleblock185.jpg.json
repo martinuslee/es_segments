@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 318,
+        "width": 450
+    },
+    "objects": [
+        {
+            "id": 783551414,
+            "classId": 6178697,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "brailleblock",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        218
+                    ],
+                    [
+                        2,
+                        243
+                    ],
+                    [
+                        171,
+                        248
+                    ],
+                    [
+                        158,
+                        301
+                    ],
+                    [
+                        287,
+                        301
+                    ],
+                    [
+                        278,
+                        254
+                    ],
+                    [
+                        449,
+                        247
+                    ],
+                    [
+                        449,
+                        220
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 783551415,
+            "classId": 6178697,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "brailleblock",
+            "points": {
+                "exterior": [
+                    [
+                        120,
+                        53
+                    ],
+                    [
+                        117,
+                        59
+                    ],
+                    [
+                        317,
+                        60
+                    ],
+                    [
+                        314,
+                        52
+                    ],
+                    [
+                        264,
+                        53
+                    ],
+                    [
+                        263,
+                        48
+                    ],
+                    [
+                        233,
+                        49
+                    ],
+                    [
+                        233,
+                        53
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 600
+    },
+    "objects": [
+        {
+            "id": 783551214,
+            "classId": 6178696,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "crosswalk",
+            "points": {
+                "exterior": [
+                    [
+                        599,
+                        267
+                    ],
+                    [
+                        381,
+                        204
+                    ],
+                    [
+                        439,
+                        202
+                    ],
+                    [
+                        599,
+                        237
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 783551213,
+            "classId": 6178696,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "crosswalk",
+            "points": {
+                "exterior": [
+                    [
+                        100,
+                        218
+                    ],
+                    [
+                        3,
+                        230
+                    ],
+                    [
+                        1,
+                        239
+                    ],
+                    [
+                        496,
+                        367
+                    ],
+                    [
+                        583,
+                        278
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

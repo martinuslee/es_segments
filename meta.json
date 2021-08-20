@@ -1,0 +1,22 @@
+{
+    "classes": [
+        {
+            "title": "crosswalk",
+            "shape": "polygon",
+            "color": "#9B9B9B",
+            "geometry_config": {},
+            "id": 6178696,
+            "hotkey": ""
+        },
+        {
+            "title": "brailleblock",
+            "shape": "polygon",
+            "color": "#F8E71C",
+            "geometry_config": {},
+            "id": 6178697,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}

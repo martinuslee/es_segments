@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 800,
+        "width": 600
+    },
+    "objects": [
+        {
+            "id": 783551669,
+            "classId": 6178697,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "brailleblock",
+            "points": {
+                "exterior": [
+                    [
+                        312,
+                        545
+                    ],
+                    [
+                        248,
+                        586
+                    ],
+                    [
+                        515,
+                        799
+                    ],
+                    [
+                        599,
+                        799
+                    ],
+                    [
+                        599,
+                        737
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 783551670,
+            "classId": 6178697,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "brailleblock",
+            "points": {
+                "exterior": [
+                    [
+                        155,
+                        476
+                    ],
+                    [
+                        206,
+                        452
+                    ],
+                    [
+                        62,
+                        355
+                    ],
+                    [
+                        13,
+                        369
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

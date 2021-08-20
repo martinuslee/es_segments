@@ -1,0 +1,86 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 408,
+        "width": 720
+    },
+    "objects": [
+        {
+            "id": 783551337,
+            "classId": 6178696,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "crosswalk",
+            "points": {
+                "exterior": [
+                    [
+                        357,
+                        143
+                    ],
+                    [
+                        385,
+                        264
+                    ],
+                    [
+                        717,
+                        251
+                    ],
+                    [
+                        717,
+                        242
+                    ],
+                    [
+                        464,
+                        138
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 783551338,
+            "classId": 6178696,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "crosswalk",
+            "points": {
+                "exterior": [
+                    [
+                        263,
+                        140
+                    ],
+                    [
+                        175,
+                        177
+                    ],
+                    [
+                        0,
+                        264
+                    ],
+                    [
+                        0,
+                        337
+                    ],
+                    [
+                        338,
+                        327
+                    ],
+                    [
+                        348,
+                        141
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

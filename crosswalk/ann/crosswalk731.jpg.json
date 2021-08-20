@@ -1,0 +1,74 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 326,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 783551360,
+            "classId": 6178696,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "crosswalk",
+            "points": {
+                "exterior": [
+                    [
+                        600,
+                        150
+                    ],
+                    [
+                        526,
+                        175
+                    ],
+                    [
+                        1019,
+                        263
+                    ],
+                    [
+                        1023,
+                        192
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 783551361,
+            "classId": 6178696,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "crosswalk",
+            "points": {
+                "exterior": [
+                    [
+                        410,
+                        169
+                    ],
+                    [
+                        355,
+                        151
+                    ],
+                    [
+                        0,
+                        182
+                    ],
+                    [
+                        0,
+                        226
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

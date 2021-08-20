@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 374,
+        "width": 600
+    },
+    "objects": [
+        {
+            "id": 783551195,
+            "classId": 6178696,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "crosswalk",
+            "points": {
+                "exterior": [
+                    [
+                        75,
+                        221
+                    ],
+                    [
+                        122,
+                        216
+                    ],
+                    [
+                        600,
+                        303
+                    ],
+                    [
+                        599,
+                        352
+                    ],
+                    [
+                        599,
+                        354
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 783551196,
+            "classId": 6178696,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "crosswalk",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        294
+                    ],
+                    [
+                        599,
+                        361
+                    ],
+                    [
+                        599,
+                        373
+                    ],
+                    [
+                        0,
+                        373
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

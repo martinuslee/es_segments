@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 960
+    },
+    "objects": [
+        {
+            "id": 783551189,
+            "classId": 6178696,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "crosswalk",
+            "points": {
+                "exterior": [
+                    [
+                        656,
+                        304
+                    ],
+                    [
+                        0,
+                        425
+                    ],
+                    [
+                        0,
+                        439
+                    ],
+                    [
+                        171,
+                        572
+                    ],
+                    [
+                        875,
+                        329
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

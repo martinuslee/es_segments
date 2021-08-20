@@ -1,0 +1,86 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 563,
+        "width": 680
+    },
+    "objects": [
+        {
+            "id": 783551407,
+            "classId": 6178697,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "brailleblock",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        326
+                    ],
+                    [
+                        647,
+                        331
+                    ],
+                    [
+                        650,
+                        530
+                    ],
+                    [
+                        1,
+                        532
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 783551408,
+            "classId": 6178697,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "brailleblock",
+            "points": {
+                "exterior": [
+                    [
+                        237,
+                        318
+                    ],
+                    [
+                        238,
+                        46
+                    ],
+                    [
+                        376,
+                        44
+                    ],
+                    [
+                        643,
+                        51
+                    ],
+                    [
+                        649,
+                        161
+                    ],
+                    [
+                        380,
+                        173
+                    ],
+                    [
+                        374,
+                        322
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

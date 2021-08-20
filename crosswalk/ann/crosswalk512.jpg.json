@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 370,
+        "width": 600
+    },
+    "objects": [
+        {
+            "id": 783551318,
+            "classId": 6178696,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "crosswalk",
+            "points": {
+                "exterior": [
+                    [
+                        284,
+                        180
+                    ],
+                    [
+                        207,
+                        355
+                    ],
+                    [
+                        599,
+                        367
+                    ],
+                    [
+                        599,
+                        309
+                    ],
+                    [
+                        387,
+                        184
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 783551319,
+            "classId": 6178696,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "crosswalk",
+            "points": {
+                "exterior": [
+                    [
+                        87,
+                        188
+                    ],
+                    [
+                        0,
+                        216
+                    ],
+                    [
+                        599,
+                        223
+                    ],
+                    [
+                        530,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

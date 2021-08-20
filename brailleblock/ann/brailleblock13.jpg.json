@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 347,
+        "width": 520
+    },
+    "objects": [
+        {
+            "id": 783551381,
+            "classId": 6178697,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "brailleblock",
+            "points": {
+                "exterior": [
+                    [
+                        122,
+                        21
+                    ],
+                    [
+                        118,
+                        27
+                    ],
+                    [
+                        265,
+                        18
+                    ],
+                    [
+                        265,
+                        8
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 783551382,
+            "classId": 6178697,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "brailleblock",
+            "points": {
+                "exterior": [
+                    [
+                        265,
+                        22
+                    ],
+                    [
+                        213,
+                        275
+                    ],
+                    [
+                        294,
+                        275
+                    ],
+                    [
+                        288,
+                        18
+                    ],
+                    [
+                        288,
+                        18
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

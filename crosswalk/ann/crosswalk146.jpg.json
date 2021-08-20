@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 598,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 783551109,
+            "classId": 6178696,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "crosswalk",
+            "points": {
+                "exterior": [
+                    [
+                        413,
+                        226
+                    ],
+                    [
+                        506,
+                        219
+                    ],
+                    [
+                        1011,
+                        593
+                    ],
+                    [
+                        681,
+                        597
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 783551110,
+            "classId": 6178696,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "crosswalk",
+            "points": {
+                "exterior": [
+                    [
+                        22,
+                        247
+                    ],
+                    [
+                        1279,
+                        332
+                    ],
+                    [
+                        1279,
+                        376
+                    ],
+                    [
+                        0,
+                        278
+                    ],
+                    [
+                        1,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

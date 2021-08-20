@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 189,
+        "width": 330
+    },
+    "objects": [
+        {
+            "id": 783551236,
+            "classId": 6178696,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "crosswalk",
+            "points": {
+                "exterior": [
+                    [
+                        199,
+                        74
+                    ],
+                    [
+                        0,
+                        148
+                    ],
+                    [
+                        0,
+                        188
+                    ],
+                    [
+                        84,
+                        188
+                    ],
+                    [
+                        234,
+                        74
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 783551237,
+            "classId": 6178696,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "crosswalk",
+            "points": {
+                "exterior": [
+                    [
+                        329,
+                        100
+                    ],
+                    [
+                        329,
+                        115
+                    ],
+                    [
+                        53,
+                        100
+                    ],
+                    [
+                        49,
+                        88
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

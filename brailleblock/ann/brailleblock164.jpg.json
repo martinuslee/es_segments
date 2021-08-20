@@ -1,0 +1,74 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 228,
+        "width": 560
+    },
+    "objects": [
+        {
+            "id": 783551403,
+            "classId": 6178697,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "brailleblock",
+            "points": {
+                "exterior": [
+                    [
+                        236,
+                        205
+                    ],
+                    [
+                        53,
+                        43
+                    ],
+                    [
+                        64,
+                        40
+                    ],
+                    [
+                        268,
+                        197
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 783551404,
+            "classId": 6178697,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "now2466",
+            "createdAt": "2021-08-20T08:26:25.766Z",
+            "updatedAt": "2021-08-20T08:26:25.766Z",
+            "tags": [],
+            "classTitle": "brailleblock",
+            "points": {
+                "exterior": [
+                    [
+                        340,
+                        45
+                    ],
+                    [
+                        425,
+                        128
+                    ],
+                    [
+                        447,
+                        125
+                    ],
+                    [
+                        348,
+                        44
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
